@@ -1,9 +1,9 @@
 <root org="doublechain"
-    chinese_name="Simple PIM v1.0"
-    english_name="Product Information Management"
+    chinese_name="砺锋科技SCM系统"
+    english_name="Seehope Supply Chain Management"
 >
     <platform
-              
+            
         name="PIM"
         founded="now()"
         contact_number="992887654321"
